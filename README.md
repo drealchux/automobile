@@ -47,9 +47,6 @@ Automobile project/
 │   ├── auto_sales_order_level.csv          # One row per order (status/deal size analysis)
 │   ├── auto_sales_customer_summary.csv     # Revenue/orders per customer, Pareto-ranked
 │   └── auto_sales_churn_risk.csv           # Customer churn risk tiers with revenue at stake
-├── src/
-│   ├── build_notebook.py                 # Generates the EDA notebook
-│   └── build_regression_notebook.py      # Generates the regression/forecasting notebook
 ├── requirements.txt
 └── README.md
 ```
