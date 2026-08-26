@@ -1,0 +1,299 @@
+ORDERNUMBER,ORDERDATE,YEAR,QUARTER,YEAR_MONTH,STATUS,DEALSIZE,CUSTOMERNAME,COUNTRY,CITY,ORDER_TOTAL
+10107,2018-02-24,2018,2018Q1,2018-02,Shipped,Small,Land of Toys Inc.,USA,NYC,25783.76
+10121,2018-05-07,2018,2018Q2,2018-05,Shipped,Small,Reims Collectables,France,Reims,18971.96
+10134,2018-07-01,2018,2018Q3,2018-07,Shipped,Medium,Lyon Souveniers,France,Paris,25624.88
+10145,2018-08-25,2018,2018Q3,2018-08,Shipped,Medium,Toys4GrownUps.com,USA,Pasadena,55776.119999999995
+10168,2018-10-28,2018,2018Q4,2018-10,Shipped,Medium,Technics Stores Inc.,USA,Burlingame,62305.47
+10180,2018-11-11,2018,2018Q4,2018-11,Shipped,Small,Daedalus Designs Imports,France,Lille,48874.28
+10188,2018-11-18,2018,2018Q4,2018-11,Shipped,Medium,Herkku Gifts,Norway,Bergen,34481.340000000004
+10211,2019-01-15,2019,2019Q1,2019-01,Shipped,Medium,Auto Canal Petit,France,Paris,51172.65
+10223,2019-02-20,2019,2019Q1,2019-02,Shipped,Medium,"Australian Collectors, Co.",Australia,Melbourne,49637.57
+10237,2019-04-05,2019,2019Q2,2019-04,Shipped,Small,Vitachrome Inc.,USA,NYC,24804.34
+10251,2019-05-18,2019,2019Q2,2019-05,Shipped,Medium,Tekni Collectables Inc.,USA,Newark,27987.07
+10263,2019-06-28,2019,2019Q2,2019-06,Shipped,Medium,Gift Depot Inc.,USA,Bridgewater,44130.520000000004
+10275,2019-07-23,2019,2019Q3,2019-07,Shipped,Medium,La Rochelle Gifts,France,Nantes,56002.9
+10285,2019-08-27,2019,2019Q3,2019-08,Shipped,Medium,Marta's Replicas Co.,USA,Cambridge,48828.72
+10299,2019-09-30,2019,2019Q3,2019-09,Shipped,Small,"Toys of Finland, Co.",Finland,Helsinki,42744.06
+10309,2019-10-15,2019,2019Q4,2019-10,Shipped,Medium,Baane Mini Imports,Norway,Stavern,19769.68
+10318,2019-11-02,2019,2019Q4,2019-11,Shipped,Medium,Diecast Classics Inc.,USA,Allentown,44040.729999999996
+10329,2019-11-15,2019,2019Q4,2019-11,Shipped,Medium,Land of Toys Inc.,USA,NYC,53152.28
+10341,2019-11-24,2019,2019Q4,2019-11,Shipped,Large,Salzburg Collectables,Austria,Salzburg,45001.11
+10361,2019-12-17,2019,2019Q4,2019-12,Shipped,Small,Souveniers And Things Co.,Australia,Chatswood,37905.15
+10375,2020-02-03,2020,2020Q1,2020-02,Shipped,Small,La Rochelle Gifts,France,Nantes,59617.4
+10388,2020-03-03,2020,2020Q1,2020-03,Shipped,Medium,FunGiftIdeas.com,USA,New Bedford,37557.66
+10403,2020-04-08,2020,2020Q2,2020-04,Shipped,Small,"UK Collectables, Ltd.",UK,Liverpool,40802.81
+10417,2020-05-13,2020,2020Q2,2020-05,Disputed,Large,Euro Shopping Channel,Spain,Madrid,31821.9
+10103,2018-01-29,2018,2018Q1,2018-01,Shipped,Medium,Baane Mini Imports,Norway,Stavern,54702.0
+10112,2018-03-24,2018,2018Q1,2018-03,Shipped,Large,"Volvo Model Replicas, Co",Sweden,Lule,9749.0
+10126,2018-05-28,2018,2018Q2,2018-05,Shipped,Large,"Corrida Auto Replicas, Ltd",Spain,Madrid,61073.21
+10140,2018-07-24,2018,2018Q3,2018-07,Shipped,Large,Technics Stores Inc.,USA,Burlingame,42031.83
+10150,2018-09-19,2018,2018Q3,2018-09,Shipped,Large,"Dragon Souveniers, Ltd.",Singapore,Singapore,44219.36
+10163,2018-10-20,2018,2018Q4,2018-10,Shipped,Medium,Classic Legends Inc.,USA,NYC,25284.75
+10174,2018-11-06,2018,2018Q4,2018-11,Shipped,Large,"Australian Gift Network, Co",Australia,South Brisbane,27098.8
+10183,2018-11-13,2018,2018Q4,2018-11,Shipped,Medium,"Classic Gift Ideas, Inc",USA,Philadelphia,40061.659999999996
+10194,2018-11-25,2018,2018Q4,2018-11,Shipped,Large,"Saveley & Henriot, Co.",France,Lyon,41535.11
+10206,2018-12-05,2018,2018Q4,2018-12,Shipped,Large,Canadian Gift Exchange Network,Canada,Vancouver,38662.21
+10215,2019-01-29,2019,2019Q1,2019-01,Shipped,Medium,West Coast Collectables Co.,USA,Burbank,37850.08
+10228,2019-03-10,2019,2019Q1,2019-03,Shipped,Medium,Cambridge Collectables Co.,USA,Cambridge,21782.7
+10245,2019-05-04,2019,2019Q2,2019-05,Shipped,Medium,Super Scale Inc.,USA,New Haven,36973.31
+10258,2019-06-15,2019,2019Q2,2019-06,Shipped,Large,"Tokyo Collectables, Ltd",Japan,Minato-ku,25928.75
+10270,2019-07-19,2019,2019Q3,2019-07,Shipped,Medium,Souveniers And Things Co.,Australia,Chatswood,41297.14
+10280,2019-08-17,2019,2019Q3,2019-08,Shipped,Large,Amica Models & Co.,Italy,Torino,56078.26
+10291,2019-09-08,2019,2019Q3,2019-09,Shipped,Large,Scandinavian Gift Ideas,Sweden,Boras,53941.69
+10304,2019-10-11,2019,2019Q4,2019-10,Shipped,Large,Auto Assoc. & Cie.,France,Versailles,59074.9
+10312,2019-10-21,2019,2019Q4,2019-10,Shipped,Large,Mini Gifts Distributors Ltd.,USA,San Rafael,63075.08
+10322,2019-11-04,2019,2019Q4,2019-11,Shipped,Medium,Online Diecast Creations Co.,USA,Nashua,55570.6
+10347,2019-11-29,2019,2019Q4,2019-11,Shipped,Medium,"Australian Collectors, Co.",Australia,Melbourne,47442.91
+10357,2019-12-10,2019,2019Q4,2019-12,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,42152.11
+10369,2020-01-20,2020,2020Q1,2020-01,Shipped,Medium,Collectables For Less Inc.,USA,Brickhaven,31474.78
+10391,2020-03-09,2020,2020Q1,2020-03,Shipped,Small,"Anna's Decorations, Ltd",Australia,North Sydney,35160.25
+10411,2020-05-01,2020,2020Q2,2020-05,Shipped,Medium,Quebec Home Shopping Network,Canada,Montreal,33692.97
+10424,2020-05-31,2020,2020Q2,2020-05,In Process,Large,Euro Shopping Channel,Spain,Madrid,35133.34
+10120,2018-04-29,2018,2018Q2,2018-04,Shipped,Small,"Australian Collectors, Co.",Australia,Melbourne,50397.66
+10210,2019-01-12,2019,2019Q1,2019-01,Shipped,Medium,Osaka Souveniers Co.,Japan,Osaka,50490.64
+10236,2019-04-03,2019,2019Q2,2019-04,Shipped,Small,Motor Mint Distributors Inc.,USA,Philadelphia,7287.24
+10298,2019-09-27,2019,2019Q3,2019-09,Shipped,Medium,Atelier graphique,France,Nantes,5307.9800000000005
+10308,2019-10-15,2019,2019Q4,2019-10,Shipped,Medium,Mini Classics,USA,White Plains,46873.04
+10339,2019-11-23,2019,2019Q4,2019-11,Shipped,Small,"Tokyo Collectables, Ltd",Japan,Minato-ku,55888.65
+10374,2020-02-02,2020,2020Q1,2020-02,Shipped,Medium,"Australian Gift Network, Co",Australia,South Brisbane,21730.03
+10402,2020-04-07,2020,2020Q2,2020-04,Shipped,Medium,Auto Canal Petit,France,Paris,14066.8
+10362,2020-01-05,2020,2020Q1,2020-01,Shipped,Medium,Technics Stores Inc.,USA,Burlingame,13529.57
+10105,2018-02-11,2018,2018Q1,2018-02,Shipped,Large,Danish Wholesale Imports,Denmark,Kobenhavn,58871.11
+10119,2018-04-28,2018,2018Q2,2018-04,Shipped,Medium,Salzburg Collectables,Austria,Salzburg,38629.14
+10129,2018-06-12,2018,2018Q2,2018-06,Shipped,Medium,"Stylish Desk Decors, Co.",UK,London,32376.29
+10143,2018-08-10,2018,2018Q3,2018-08,Shipped,Medium,Mini Creations Ltd.,USA,New Bedford,45738.39
+10155,2018-10-06,2018,2018Q4,2018-10,Shipped,Medium,"Toys of Finland, Co.",Finland,Helsinki,42083.5
+10167,2018-10-23,2018,2018Q4,2018-10,Cancelled,Medium,Scandinavian Gift Ideas,Sweden,Boras,48710.92
+10178,2018-11-08,2018,2018Q4,2018-11,Shipped,Medium,Alpha Cognac,France,Toulouse,38098.24
+10186,2018-11-14,2018,2018Q4,2018-11,Shipped,Medium,"Double Decker Gift Stores, Ltd",UK,London,27541.82
+10197,2018-11-26,2018,2018Q4,2018-11,Shipped,Medium,Enaco Distributors,Spain,Barcelona,44009.31
+10222,2019-02-19,2019,2019Q1,2019-02,Shipped,Medium,Collectable Mini Designs Co.,USA,San Diego,61617.01
+10248,2019-05-07,2019,2019Q2,2019-05,Cancelled,Small,Land of Toys Inc.,USA,NYC,45357.659999999996
+10261,2019-06-17,2019,2019Q2,2019-06,Shipped,Medium,Quebec Home Shopping Network,Canada,Montreal,24564.53
+10273,2019-07-21,2019,2019Q3,2019-07,Shipped,Medium,Petit Auto,Belgium,Bruxelles,47760.479999999996
+10283,2019-08-20,2019,2019Q3,2019-08,Shipped,Small,"Royal Canadian Collectables, Ltd.",Canada,Tsawassen,43332.35
+10295,2019-09-10,2019,2019Q3,2019-09,Shipped,Medium,Gifts4AllAges.com,USA,Boston,15344.64
+10307,2019-10-14,2019,2019Q4,2019-10,Shipped,Small,"Classic Gift Ideas, Inc",USA,Philadelphia,27445.31
+10316,2019-11-01,2019,2019Q4,2019-11,Shipped,Medium,giftsbymail.co.uk,UK,Cowes,51334.16
+10325,2019-11-05,2019,2019Q4,2019-11,Shipped,Medium,Baane Mini Imports,Norway,Stavern,40652.85
+10337,2019-11-21,2019,2019Q4,2019-11,Shipped,Small,Classic Legends Inc.,USA,NYC,27733.04
+10350,2019-12-02,2019,2019Q4,2019-12,Shipped,Small,Euro Shopping Channel,Spain,Madrid,52269.17
+10359,2019-12-15,2019,2019Q4,2019-12,Shipped,Small,Reims Collectables,France,Reims,30214.42
+10373,2020-01-31,2020,2020Q1,2020-01,Shipped,Medium,"Oulu Toy Supplies, Inc.",Finland,Oulu,49055.4
+10395,2020-03-17,2020,2020Q1,2020-03,Shipped,Medium,Lyon Souveniers,France,Paris,20321.53
+10400,2020-04-01,2020,2020Q2,2020-04,Shipped,Large,The Sharp Gifts Warehouse,USA,San Jose,37526.84
+10414,2020-05-06,2020,2020Q2,2020-05,On Hold,Small,Gifts4AllAges.com,USA,Boston,48316.89
+10114,2018-04-01,2018,2018Q2,2018-04,Shipped,Medium,"La Corne D'abondance, Co.",France,Paris,38217.41
+10164,2018-10-21,2018,2018Q4,2018-10,Resolved,Medium,Mini Auto Werke,Austria,Graz,28550.59
+10175,2018-11-06,2018,2018Q4,2018-11,Shipped,Medium,"Stylish Desk Decors, Co.",UK,London,42688.31
+10207,2018-12-09,2018,2018Q4,2018-12,Shipped,Medium,Diecast Collectables,USA,Boston,63730.78
+10217,2019-02-04,2019,2019Q1,2019-02,Shipped,Large,Handji Gifts& Co,Singapore,Singapore,24219.59
+10229,2019-03-11,2019,2019Q1,2019-03,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,48922.77
+10259,2019-06-15,2019,2019Q2,2019-06,Shipped,Medium,Handji Gifts& Co,Singapore,Singapore,45788.72
+10281,2019-08-19,2019,2019Q3,2019-08,Shipped,Large,Diecast Classics Inc.,USA,Allentown,44781.35
+10305,2019-10-13,2019,2019Q4,2019-10,Shipped,Medium,Marta's Replicas Co.,USA,Cambridge,54251.659999999996
+10313,2019-10-22,2019,2019Q4,2019-10,Shipped,Medium,Canadian Gift Exchange Network,Canada,Vancouver,36576.71
+10334,2019-11-19,2019,2019Q4,2019-11,On Hold,Medium,"Volvo Model Replicas, Co",Sweden,Lule,26260.21
+10370,2020-01-20,2020,2020Q1,2020-01,Shipped,Small,"Anna's Decorations, Ltd",Australia,North Sydney,29852.17
+10425,2020-05-31,2020,2020Q2,2020-05,In Process,Medium,La Rochelle Gifts,France,Nantes,43784.69
+10108,2018-03-03,2018,2018Q1,2018-03,Shipped,Medium,Cruz & Sons Co.,Philippines,Makati City,55245.020000000004
+10122,2018-05-08,2018,2018Q2,2018-05,Shipped,Large,Marseille Mini Autos,France,Marseille,52481.840000000004
+10135,2018-07-02,2018,2018Q3,2018-07,Shipped,Large,Mini Gifts Distributors Ltd.,USA,San Rafael,59280.51
+10147,2018-09-05,2018,2018Q3,2018-09,Shipped,Large,Collectables For Less Inc.,USA,Brickhaven,34992.4
+10169,2018-11-04,2018,2018Q4,2018-11,Shipped,Medium,"Anna's Decorations, Ltd",Australia,North Sydney,41791.95
+10181,2018-11-12,2018,2018Q4,2018-11,Shipped,Medium,Herkku Gifts,Norway,Bergen,60795.84
+10191,2018-11-20,2018,2018Q4,2018-11,Shipped,Medium,"Toms Spezialitten, Ltd",Germany,Koln,31363.18
+10203,2018-12-02,2018,2018Q4,2018-12,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,45116.18
+10225,2019-02-22,2019,2019Q1,2019-02,Shipped,Medium,"Vida Sport, Ltd",Switzerland,Gensve,50432.549999999996
+10238,2019-04-09,2019,2019Q2,2019-04,Shipped,Medium,Danish Wholesale Imports,Denmark,Kobenhavn,31329.56
+10253,2019-06-01,2019,2019Q2,2019-06,Cancelled,Medium,"UK Collectables, Ltd.",UK,Liverpool,50408.25
+10266,2019-07-06,2019,2019Q3,2019-07,Shipped,Large,L'ordine Souveniers,Italy,Reggio Emilia,56421.65
+10276,2019-08-02,2019,2019Q3,2019-08,Shipped,Large,Online Mini Collectables,USA,Brickhaven,52505.36
+10287,2019-08-30,2019,2019Q3,2019-08,Shipped,Medium,"Vida Sport, Ltd",Switzerland,Gensve,67281.01
+10300,2018-10-04,2018,2018Q4,2018-10,Shipped,Medium,"Blauer See Auto, Co.",Germany,Frankfurt,27257.79
+10310,2019-10-16,2019,2019Q4,2019-10,Shipped,Medium,"Toms Spezialitten, Ltd",Germany,Koln,68943.4
+10320,2019-11-03,2019,2019Q4,2019-11,Shipped,Medium,"Volvo Model Replicas, Co",Sweden,Lule,19599.35
+10363,2020-01-06,2020,2020Q1,2020-01,Shipped,Small,Suominen Souveniers,Finland,Espoo,51373.49
+10389,2020-03-03,2020,2020Q1,2020-03,Shipped,Small,Scandinavian Gift Ideas,Sweden,Boras,31606.72
+10419,2020-05-17,2020,2020Q2,2020-05,Shipped,Small,Salzburg Collectables,Austria,Salzburg,59475.1
+10117,2018-04-16,2018,2018Q2,2018-04,Shipped,Medium,"Dragon Souveniers, Ltd.",Singapore,Singapore,43657.47
+10127,2018-06-03,2018,2018Q2,2018-06,Shipped,Large,Muscle Machine Inc,USA,NYC,68462.15
+10142,2018-08-08,2018,2018Q3,2018-08,Shipped,Large,Mini Gifts Distributors Ltd.,USA,San Rafael,63088.16
+10153,2018-09-28,2018,2018Q3,2018-09,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,47727.82
+10165,2018-10-22,2018,2018Q4,2018-10,Shipped,Large,"Dragon Souveniers, Ltd.",Singapore,Singapore,77809.37
+10176,2018-11-06,2018,2018Q4,2018-11,Shipped,Large,L'ordine Souveniers,Italy,Reggio Emilia,44669.74
+10185,2018-11-14,2018,2018Q4,2018-11,Shipped,Medium,Mini Creations Ltd.,USA,New Bedford,52191.44
+10196,2018-11-26,2018,2018Q4,2018-11,Shipped,Large,Super Scale Inc.,USA,New Haven,42498.76
+10208,2019-01-02,2019,2019Q1,2019-01,Shipped,Large,"Saveley & Henriot, Co.",France,Lyon,54536.87
+10220,2019-02-12,2019,2019Q1,2019-02,Shipped,Large,"Clover Collections, Co.",Ireland,Dublin,38784.47
+10231,2019-03-19,2019,2019Q1,2019-03,Shipped,Large,CAF Imports,Spain,Madrid,15330.7
+10247,2019-05-05,2019,2019Q2,2019-05,Shipped,Large,Suominen Souveniers,Finland,Espoo,31018.23
+10272,2019-07-20,2019,2019Q3,2019-07,Shipped,Medium,Diecast Classics Inc.,USA,Allentown,27149.26
+10282,2019-08-20,2019,2019Q3,2019-08,Shipped,Large,Mini Gifts Distributors Ltd.,USA,San Rafael,52807.15
+10293,2019-09-09,2019,2019Q3,2019-09,Shipped,Large,Amica Models & Co.,Italy,Torino,38039.0
+10306,2019-10-14,2019,2019Q4,2019-10,Shipped,Medium,"AV Stores, Co.",UK,Manchester,57827.61
+10314,2019-10-22,2019,2019Q4,2019-10,Shipped,Large,Heintze Collectables,Denmark,Aaarhus,60273.94
+10336,2019-11-20,2019,2019Q4,2019-11,Shipped,Small,"La Corne D'abondance, Co.",France,Paris,56812.67
+10348,2019-11-01,2019,2019Q4,2019-11,Shipped,Small,"Corrida Auto Replicas, Ltd",Spain,Madrid,34546.6
+10371,2020-01-23,2020,2020Q1,2020-01,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,36124.270000000004
+10382,2020-02-17,2020,2020Q1,2020-02,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,55741.020000000004
+10413,2020-05-05,2020,2020Q2,2020-05,Shipped,Large,Gift Depot Inc.,USA,Bridgewater,31648.47
+10113,2018-03-26,2018,2018Q1,2018-03,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,12398.560000000001
+10216,2019-02-02,2019,2019Q1,2019-02,Shipped,Medium,Auto Assoc. & Cie.,France,Versailles,5759.42
+10189,2018-11-18,2018,2018Q4,2018-11,Shipped,Medium,Toys4GrownUps.com,USA,Pasadena,4512.48
+10224,2019-02-21,2019,2019Q1,2019-02,Shipped,Medium,Daedalus Designs Imports,France,Lille,20178.129999999997
+10319,2019-11-03,2019,2019Q4,2019-11,Shipped,Medium,Microscale Inc.,USA,NYC,31446.15
+10104,2018-01-31,2018,2018Q1,2018-01,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,44621.96
+10230,2019-03-15,2019,2019Q1,2019-03,Shipped,Large,"Blauer See Auto, Co.",Germany,Frankfurt,37266.49
+10324,2019-11-05,2019,2019Q4,2019-11,Shipped,Small,Vitachrome Inc.,USA,NYC,56372.87
+10358,2019-12-10,2019,2019Q4,2019-12,Shipped,Small,Euro Shopping Channel,Spain,Madrid,51435.45
+10372,2020-01-26,2020,2020Q1,2020-01,Shipped,Medium,"Tokyo Collectables, Ltd",Japan,Minato-ku,38191.39
+10170,2018-11-04,2018,2018Q4,2018-11,Shipped,Medium,Mini Auto Werke,Austria,Graz,14938.15
+10212,2019-01-16,2019,2019Q1,2019-01,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,65165.17
+10376,2020-02-08,2020,2020Q1,2020-02,Shipped,Medium,Boards & Toys Co.,USA,Glendale,3987.2
+10349,2019-12-01,2019,2019Q4,2019-12,Shipped,Medium,Muscle Machine Inc,USA,NYC,41706.52
+10396,2020-03-23,2020,2020Q1,2020-03,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,32194.79
+10377,2020-02-09,2020,2020Q1,2020-02,Shipped,Small,"Toys of Finland, Co.",Finland,Helsinki,26422.82
+10115,2018-04-04,2018,2018Q2,2018-04,Shipped,Medium,Classic Legends Inc.,USA,NYC,24777.41
+10141,2018-08-01,2018,2018Q3,2018-08,Shipped,Small,Suominen Souveniers,Finland,Espoo,31569.43
+10151,2018-09-21,2018,2018Q3,2018-09,Shipped,Medium,"Oulu Toy Supplies, Inc.",Finland,Oulu,37501.58
+10184,2018-11-14,2018,2018Q4,2018-11,Shipped,Medium,"Iberia Gift Imports, Corp.",Spain,Sevilla,51502.740000000005
+10195,2018-11-25,2018,2018Q4,2018-11,Shipped,Medium,Mini Classics,USA,White Plains,38682.95
+10219,2019-02-10,2019,2019Q1,2019-02,Shipped,Medium,Signal Collectibles Ltd.,USA,Brisbane,16118.48
+10246,2019-05-05,2019,2019Q2,2019-05,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,41317.75
+10271,2019-07-20,2019,2019Q3,2019-07,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,41121.58
+10292,2019-09-08,2019,2019Q3,2019-09,Shipped,Small,Land of Toys Inc.,USA,NYC,39775.74
+10412,2020-05-03,2020,2020Q2,2020-05,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,52287.74
+10192,2018-11-20,2018,2018Q4,2018-11,Shipped,Medium,Online Diecast Creations Co.,USA,Nashua,63981.45
+10239,2019-04-12,2019,2019Q2,2019-04,Shipped,Small,"Oulu Toy Supplies, Inc.",Finland,Oulu,17813.4
+10277,2019-08-04,2019,2019Q3,2019-08,Shipped,Medium,"Dragon Souveniers, Ltd.",Singapore,Singapore,3127.88
+10321,2019-11-04,2019,2019Q4,2019-11,Shipped,Small,FunGiftIdeas.com,USA,New Bedford,49504.380000000005
+10405,2020-04-14,2020,2020Q2,2020-04,Shipped,Large,Mini Caravy,France,Strasbourg,35680.35
+10109,2018-03-10,2018,2018Q1,2018-03,Shipped,Medium,Motor Mint Distributors Inc.,USA,Philadelphia,27398.82
+10136,2018-07-04,2018,2018Q3,2018-07,Shipped,Medium,Alpha Cognac,France,Toulouse,17251.08
+10148,2018-09-11,2018,2018Q3,2018-09,Shipped,Small,"Anna's Decorations, Ltd",Australia,North Sydney,47191.76
+10161,2018-10-17,2018,2018Q4,2018-10,Shipped,Medium,Heintze Collectables,Denmark,Aaarhus,40321.61
+10171,2018-11-05,2018,2018Q4,2018-11,Shipped,Medium,Quebec Home Shopping Network,Canada,Montreal,15947.289999999999
+10204,2018-12-02,2018,2018Q4,2018-12,Shipped,Medium,Muscle Machine Inc,USA,NYC,64316.090000000004
+10240,2019-04-13,2019,2019Q2,2019-04,Shipped,Medium,Osaka Souveniers Co.,Japan,Osaka,17114.43
+10278,2019-08-06,2019,2019Q3,2019-08,Shipped,Medium,Signal Gift Stores,USA,Las Vegas,34453.85
+10301,2018-10-05,2018,2018Q4,2018-10,Shipped,Medium,"Norway Gifts By Mail, Co.",Norway,Oslo,45078.759999999995
+10331,2019-11-17,2019,2019Q4,2019-11,Shipped,Medium,Motor Mint Distributors Inc.,USA,Philadelphia,48996.1
+10342,2019-11-24,2019,2019Q4,2019-11,Shipped,Medium,"Australian Collectors, Co.",Australia,Melbourne,43779.09
+10356,2019-12-09,2019,2019Q4,2019-12,Shipped,Medium,Lyon Souveniers,France,Paris,32623.93
+10365,2020-01-07,2020,2020Q1,2020-01,Shipped,Small,Mini Creations Ltd.,USA,New Bedford,11021.3
+10390,2020-03-04,2020,2020Q1,2020-03,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,61133.28
+10406,2020-04-15,2020,2020Q2,2020-04,Disputed,Large,Danish Wholesale Imports,Denmark,Kobenhavn,26012.87
+10102,2018-01-10,2018,2018Q1,2018-01,Shipped,Medium,Vitachrome Inc.,USA,NYC,6864.05
+10125,2018-05-21,2018,2018Q2,2018-05,Shipped,Medium,"Australian Collectors, Co.",Australia,Melbourne,9738.18
+10139,2018-07-16,2018,2018Q3,2018-07,Shipped,Medium,Souveniers And Things Co.,Australia,Chatswood,28397.260000000002
+10149,2018-09-12,2018,2018Q3,2018-09,Shipped,Medium,Signal Collectibles Ltd.,USA,Brisbane,34100.03
+10173,2018-11-05,2018,2018Q4,2018-11,Shipped,Medium,Rovelli Gifts,Italy,Bergamo,40077.71
+10182,2018-11-12,2018,2018Q4,2018-11,Shipped,Small,Mini Gifts Distributors Ltd.,USA,San Rafael,50360.89
+10193,2018-11-21,2018,2018Q4,2018-11,Shipped,Medium,"Australian Collectables, Ltd",Australia,Glen Waverly,37878.55
+10205,2018-12-03,2018,2018Q4,2018-12,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,16384.76
+10227,2019-03-02,2019,2019Q1,2019-03,Shipped,Small,"Saveley & Henriot, Co.",France,Lyon,46802.270000000004
+10244,2019-04-29,2019,2019Q2,2019-04,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,28327.64
+10256,2019-06-08,2019,2019Q2,2019-06,Shipped,Medium,Danish Wholesale Imports,Denmark,Kobenhavn,4749.45
+10289,2019-09-03,2019,2019Q3,2019-09,Shipped,Medium,Herkku Gifts,Norway,Bergen,16363.1
+10332,2019-11-17,2019,2019Q4,2019-11,Shipped,Medium,"AV Stores, Co.",UK,Manchester,48962.28
+10346,2019-11-29,2019,2019Q4,2019-11,Shipped,Small,Signal Gift Stores,USA,Las Vegas,14449.61
+10380,2020-02-16,2020,2020Q1,2020-02,Shipped,Small,Euro Shopping Channel,Spain,Madrid,38360.4
+10422,2020-05-30,2020,2020Q2,2020-05,In Process,Medium,Diecast Classics Inc.,USA,Allentown,6166.8
+10110,2018-03-18,2018,2018Q1,2018-03,Shipped,Medium,"AV Stores, Co.",UK,Manchester,51017.92
+10123,2018-05-20,2018,2018Q2,2018-05,Shipped,Medium,Atelier graphique,France,Nantes,16560.3
+10137,2018-07-10,2018,2018Q3,2018-07,Shipped,Medium,Reims Collectables,France,Reims,15146.32
+10172,2018-11-05,2018,2018Q4,2018-11,Shipped,Medium,Gift Depot Inc.,USA,Bridgewater,26115.8
+10226,2019-02-26,2019,2019Q1,2019-02,Shipped,Medium,Collectable Mini Designs Co.,USA,San Diego,25872.22
+10241,2019-04-13,2019,2019Q2,2019-04,Shipped,Small,Mini Caravy,France,Strasbourg,39341.229999999996
+10288,2019-09-01,2019,2019Q3,2019-09,Shipped,Small,Handji Gifts& Co,Singapore,Singapore,42902.84
+10311,2019-10-16,2019,2019Q4,2019-10,Shipped,Small,Euro Shopping Channel,Spain,Madrid,34872.13
+10343,2019-11-24,2019,2019Q4,2019-11,Shipped,Medium,Reims Collectables,France,Reims,18681.17
+10367,2020-01-12,2020,2020Q1,2020-01,Resolved,Small,Toys4GrownUps.com,USA,Pasadena,44273.36
+10378,2020-02-10,2020,2020Q1,2020-02,Shipped,Small,Euro Shopping Channel,Spain,Madrid,33680.5
+10407,2020-04-22,2020,2020Q2,2020-04,On Hold,Large,The Sharp Gifts Warehouse,USA,San Jose,57883.09
+10106,2018-02-17,2018,2018Q1,2018-02,Shipped,Medium,Rovelli Gifts,Italy,Bergamo,56181.32
+10131,2018-06-16,2018,2018Q2,2018-06,Shipped,Small,Gift Ideas Corp.,USA,Glendale,20350.95
+10198,2018-11-27,2018,2018Q4,2018-11,Shipped,Large,Cruz & Sons Co.,Philippines,Makati City,22841.96
+10250,2019-05-11,2019,2019Q2,2019-05,Shipped,Large,The Sharp Gifts Warehouse,USA,San Jose,48472.24
+10262,2019-06-24,2019,2019Q2,2019-06,Cancelled,Medium,Euro Shopping Channel,Spain,Madrid,50010.65
+10274,2019-07-21,2019,2019Q3,2019-07,Shipped,Medium,Collectables For Less Inc.,USA,Brickhaven,15110.8
+10284,2019-08-21,2019,2019Q3,2019-08,Shipped,Medium,"Norway Gifts By Mail, Co.",Norway,Oslo,34145.47
+10296,2019-09-15,2019,2019Q3,2019-09,Shipped,Medium,"Bavarian Collectables Imports, Co.",Germany,Munich,34993.92
+10327,2019-11-10,2019,2019Q4,2019-11,Resolved,Small,Danish Wholesale Imports,Denmark,Kobenhavn,24078.61
+10338,2019-11-22,2019,2019Q4,2019-11,Shipped,Medium,Royale Belge,Belgium,Charleroi,13463.48
+10351,2019-12-03,2019,2019Q4,2019-12,Shipped,Medium,"Stylish Desk Decors, Co.",UK,London,13739.9
+10386,2020-03-01,2020,2020Q1,2020-03,Resolved,Small,Euro Shopping Channel,Spain,Madrid,53815.72
+10398,2020-03-30,2020,2020Q1,2020-03,Shipped,Medium,Reims Collectables,France,Reims,52029.07
+10416,2020-05-10,2020,2020Q2,2020-05,Shipped,Medium,L'ordine Souveniers,Italy,Reggio Emilia,41509.94
+10100,2018-01-06,2018,2018Q1,2018-01,Shipped,Medium,Online Diecast Creations Co.,USA,Nashua,12133.25
+10124,2018-05-21,2018,2018Q2,2018-05,Shipped,Small,Signal Gift Stores,USA,Las Vegas,33847.62
+10214,2019-01-26,2019,2019Q1,2019-01,Shipped,Medium,"Corrida Auto Replicas, Ltd",Spain,Madrid,24995.469999999998
+10302,2018-10-06,2018,2018Q4,2018-10,Shipped,Large,"UK Collectables, Ltd.",UK,Liverpool,26797.21
+10344,2019-11-25,2019,2019Q4,2019-11,Shipped,Large,Marseille Mini Autos,France,Marseille,20136.86
+10379,2020-02-10,2020,2020Q1,2020-02,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,18094.97
+10420,2020-05-29,2020,2020Q2,2020-05,In Process,Medium,Souveniers And Things Co.,Australia,Chatswood,43971.43
+10366,2020-01-10,2020,2020Q1,2020-01,Shipped,Medium,Royale Belge,Belgium,Charleroi,16628.16
+10303,2019-10-06,2019,2019Q4,2019-10,Shipped,Small,"Iberia Gift Imports, Corp.",Spain,Sevilla,3220.88
+10383,2020-02-22,2020,2020Q1,2020-02,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,41249.74
+10101,2018-01-09,2018,2018Q1,2018-01,Shipped,Medium,"Blauer See Auto, Co.",Germany,Frankfurt,11432.34
+10243,2019-04-26,2019,2019Q2,2019-04,Shipped,Medium,Diecast Collectables,USA,Boston,7129.0
+10409,2020-04-23,2020,2020Q2,2020-04,Shipped,Small,Handji Gifts& Co,Singapore,Singapore,2587.58
+10133,2018-06-27,2018,2018Q2,2018-06,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,22167.74
+10235,2019-04-02,2019,2019Q2,2019-04,Shipped,Small,"Royal Canadian Collectables, Ltd.",Canada,Tsawassen,31302.5
+10297,2019-09-16,2019,2019Q3,2019-09,Shipped,Small,"Clover Collections, Co.",Ireland,Dublin,18971.96
+10353,2019-12-04,2019,2019Q4,2019-12,Shipped,Medium,Gift Ideas Corp.,USA,Glendale,29343.35
+10401,2020-04-03,2020,2020Q2,2020-04,On Hold,Medium,Tekni Collectables Inc.,USA,Newark,46519.0
+10255,2019-06-04,2019,2019Q2,2019-06,Shipped,Medium,Mini Caravy,France,Strasbourg,5416.9
+10421,2020-05-29,2020,2020Q2,2020-05,In Process,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,7261.75
+10257,2019-06-14,2019,2019Q2,2019-06,Shipped,Medium,The Sharp Gifts Warehouse,USA,San Jose,16128.1
+10423,2020-05-30,2020,2020Q2,2020-05,In Process,Small,Petit Auto,Belgium,Bruxelles,8411.95
+10269,2019-07-16,2019,2019Q3,2019-07,Shipped,Small,Salzburg Collectables,Austria,Salzburg,6693.280000000001
+10392,2020-03-10,2020,2020Q1,2020-03,Shipped,Small,Mini Auto Werke,Austria,Graz,8775.16
+10130,2018-06-16,2018,2018Q2,2018-06,Shipped,Medium,Auto-Moto Classics Inc.,USA,Brickhaven,7277.35
+10128,2018-06-06,2018,2018Q2,2018-06,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,17448.08
+10166,2018-10-21,2018,2018Q4,2018-10,Shipped,Medium,FunGiftIdeas.com,USA,New Bedford,11861.689999999999
+10177,2018-11-07,2018,2018Q4,2018-11,Shipped,Medium,CAF Imports,Spain,Madrid,34311.35
+10221,2019-02-18,2019,2019Q1,2019-02,Shipped,Medium,Petit Auto,Belgium,Bruxelles,18800.09
+10232,2019-03-20,2019,2019Q1,2019-03,Shipped,Medium,giftsbymail.co.uk,UK,Cowes,26906.68
+10394,2020-03-15,2020,2020Q1,2020-03,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,22353.86
+10326,2019-11-09,2019,2019Q4,2019-11,Shipped,Medium,"Volvo Model Replicas, Co",Sweden,Lule,20146.32
+10252,2019-05-26,2019,2019Q2,2019-05,Shipped,Small,Auto Canal Petit,France,Paris,27931.21
+10265,2019-07-02,2019,2019Q3,2019-07,Shipped,Medium,"Australian Collectables, Ltd",Australia,Glen Waverly,12334.82
+10290,2019-09-07,2019,2019Q3,2019-09,Shipped,Small,Auto-Moto Classics Inc.,USA,Brickhaven,7673.379999999999
+10323,2019-11-05,2019,2019Q4,2019-11,Shipped,Medium,"Blauer See Auto, Co.",Germany,Frankfurt,9214.970000000001
+10330,2019-11-16,2019,2019Q4,2019-11,Shipped,Medium,Cruz & Sons Co.,Philippines,Makati City,15928.75
+10355,2019-12-07,2019,2019Q4,2019-12,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,29884.13
+10146,2018-09-03,2018,2018Q3,2018-09,Shipped,Medium,Gift Ideas Corp.,USA,Glendale,7600.12
+10264,2019-06-30,2019,2019Q2,2019-06,Shipped,Small,Gifts4AllAges.com,USA,Boston,19548.35
+10286,2019-08-28,2019,2019Q3,2019-08,Shipped,Small,"La Corne D'abondance, Co.",France,Paris,2173.6
+10249,2019-05-08,2019,2019Q2,2019-05,Shipped,Medium,Cambridge Collectables Co.,USA,Cambridge,14380.92
+10328,2019-11-12,2019,2019Q4,2019-11,Shipped,Medium,Rovelli Gifts,Italy,Bergamo,41696.69
+10415,2020-05-09,2020,2020Q2,2020-05,Disputed,Medium,"Australian Collectables, Ltd",Australia,Glen Waverly,14378.09
+10152,2018-09-25,2018,2018Q3,2018-09,Shipped,Medium,"Australian Gift Network, Co",Australia,South Brisbane,10640.29
+10213,2019-01-22,2019,2019Q1,2019-01,Shipped,Medium,"Double Decker Gift Stores, Ltd",UK,London,8477.22
+10315,2019-10-29,2019,2019Q4,2019-10,Shipped,Medium,La Rochelle Gifts,France,Nantes,20719.91
+10267,2019-07-07,2019,2019Q3,2019-07,Shipped,Small,Muscle Machine Inc,USA,NYC,23252.18
+10279,2019-08-09,2019,2019Q3,2019-08,Shipped,Small,Euro Shopping Channel,Spain,Madrid,21986.27
+10158,2018-10-10,2018,2018Q4,2018-10,Shipped,Small,Baane Mini Imports,Norway,Stavern,1474.66
+10340,2019-11-24,2019,2019Q4,2019-11,Shipped,Medium,Enaco Distributors,Spain,Barcelona,30183.35
+10345,2019-11-25,2019,2019Q4,2019-11,Shipped,Small,Atelier graphique,France,Nantes,2311.68
+10190,2018-11-19,2018,2018Q4,2018-11,Shipped,Medium,Euro Shopping Channel,Spain,Madrid,10986.56
+10368,2020-01-19,2020,2020Q1,2020-01,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,15702.09
+10335,2019-11-19,2019,2019Q4,2019-11,Shipped,Small,Mini Gifts Distributors Ltd.,USA,San Rafael,8395.57
+10154,2018-10-02,2018,2018Q4,2018-10,Shipped,Small,Boards & Toys Co.,USA,Glendale,5142.15
+10233,2019-03-29,2019,2019Q1,2019-03,Shipped,Medium,Tekni Collectables Inc.,USA,Newark,8722.119999999999
+10385,2020-02-28,2020,2020Q1,2020-02,Shipped,Medium,Mini Gifts Distributors Ltd.,USA,San Rafael,5098.48
+10242,2019-04-20,2019,2019Q2,2019-04,Shipped,Small,Microscale Inc.,USA,NYC,1698.78
+10408,2020-04-22,2020,2020Q2,2020-04,Shipped,Small,"Tokyo Collectables, Ltd",Japan,Minato-ku,553.95
+10317,2019-11-02,2019,2019Q4,2019-11,Shipped,Small,Technics Stores Inc.,USA,Burlingame,2916.2
+10387,2020-03-02,2020,2020Q1,2020-03,Shipped,Medium,"Dragon Souveniers, Ltd.",Singapore,Singapore,4175.6
+10364,2020-01-06,2020,2020Q1,2020-01,Shipped,Small,Marseille Mini Autos,France,Marseille,2317.44
+10116,2018-04-11,2018,2018Q2,2018-04,Shipped,Small,Royale Belge,Belgium,Charleroi,1711.26
+10144,2018-08-13,2018,2018Q3,2018-08,Shipped,Small,Royale Belge,Belgium,Charleroi,1637.2
+10156,2018-10-08,2018,2018Q4,2018-10,Shipped,Small,Euro Shopping Channel,Spain,Madrid,5774.48
+10199,2018-12-01,2018,2018Q4,2018-12,Shipped,Small,West Coast Collectables Co.,USA,Burbank,8234.56
+10397,2020-03-28,2020,2020Q1,2020-03,Shipped,Small,Alpha Cognac,France,Toulouse,15139.12
+10352,2019-12-03,2019,2019Q4,2019-12,Shipped,Small,Auto-Moto Classics Inc.,USA,Brickhaven,11528.529999999999
+10118,2018-04-21,2018,2018Q2,2018-04,Shipped,Medium,Enaco Distributors,Spain,Barcelona,4219.2
+10294,2019-09-10,2019,2019Q3,2019-09,Shipped,Medium,Online Mini Collectables,USA,Brickhaven,4692.6
